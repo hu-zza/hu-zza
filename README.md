@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @hu-zza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hu-zza/hu-zza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Andrew *(Szabó László **András**)*  
+🌱 I’m currently learning Java SE 11, Spring Boot and Hibernate.  
+👀 Nowadays I’m seeking for an internship or a junior position.    
+📫 You can reach me at [my personal site](https://zza.hu).  
