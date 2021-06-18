@@ -1,7 +1,7 @@
 👋 Hi, I’m Andrew *(Szabó László **András**)*  
 🌱 I’m currently learning Java SE 11, Spring Boot, Hibernate and JUnit.  
 👀 Nowadays I’m seeking for an internship or a junior position.    
-📫 You can reach me on [my personal site](https://zza.hu) or on [LinkedIn](https://www.linkedin.com/in/hu-zza).  
+📫 You can reach me on [my personal site](https://zza.hu) or on [LinkedIn](https://zza.hu/LinkedIn).  
 <br>
 😊 Some of my dearest moments:  
 <br>
