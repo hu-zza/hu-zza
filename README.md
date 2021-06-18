@@ -5,6 +5,6 @@
 <br>
 😊 Some of my dearest moments:  
 <br>
-<a href="https://www.credly.com/users/hu-zza" target="_blank" title="Oracle Certified Professional: Java SE 11 Developer"><img src="https://hu-zza.github.io/certificates/OCP_Java_SE_11/Oracle_Java_SE_11_Developer.png" alt="Oracle Certified Professional: Java SE 11 Developer" width="150" height="150"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://erre.hu/uBot-loop" target="_blank" title="μBot, the educational floor robot"><img src="https://hu-zza.github.io/images/projects/uBot_loop_v1.06_crop.jpg" alt="μBot, the educational floor robot" width="150" height="150"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://erre.hu/PT-Robotics" target="_blank" title="Robotics @ People Team Summer Camp"><img src="https://hu-zza.github.io/images/projects/People_Team_2018.png" alt="Robotics @ People Team Summer Camp" width="150" height="150"></a>
+<a href="https://zza.hu/OCP" target="_blank" title="Oracle Certified Professional: Java SE 11 Developer"><img src="https://hu-zza.github.io/certificates/OCP_Java_SE_11/Oracle_Java_SE_11_Developer.png" alt="Oracle Certified Professional: Java SE 11 Developer" width="150" height="150"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://zza.hu/uBot-loop" target="_blank" title="μBot, the educational floor robot"><img src="https://hu-zza.github.io/images/projects/uBot_loop_v1.06_crop.jpg" alt="μBot, the educational floor robot" width="150" height="150"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://zza.hu/PT-Robotics" target="_blank" title="Robotics @ People Team Summer Camp"><img src="https://hu-zza.github.io/images/projects/People_Team_2018.png" alt="Robotics @ People Team Summer Camp" width="150" height="150"></a>
