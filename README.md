@@ -1,4 +1,4 @@
-👋 Hi, I’m Andrew *(Szabó László **András**)*  
+👋 Hi, I’m Andrew *(Szabó **András**)*  
 🌱 I’m currently learning Java SE 17, Spring Boot, Hibernate and JUnit.  
 📫 You can reach me on [my personal site](https://zza.hu) or on [LinkedIn](https://zza.hu/LinkedIn).  
 <br>
