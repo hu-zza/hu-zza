@@ -1,5 +1,5 @@
 👋 Hi, I’m Andrew *(**András** Szabó)*  
-🌱 I’m currently learning Java SE 17, Spring Boot, Hibernate and JUnit.  
+🌱 I’m currently learning Java, Spring, AWS, ... 24/7 ;-)  
 📫 You can reach me on [my personal site](https://zza.hu) or on [LinkedIn](https://zza.hu/LinkedIn).  
 <br>
 😊 Some of my dearest moments:  
